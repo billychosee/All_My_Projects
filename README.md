@@ -24,7 +24,7 @@ Welcome to my GitHub portfolio! Here you’ll find a list of my projects that de
 - **Technologies Used**: Html, Tailwind CSS and JavaScript
 - **Key Features**: Taiwind Css
 
-### Project 5: [Air BnB](https://billychosee.github.io/project3rd/)  
+### Project 5: [Air BnB](https://react-project-1-gamma.vercel.app/)  
 - **Description**: Air BnB Travel Journal
 - **Technologies Used**: React Js, Tailwind CSS and JavaScript
 - **Key Features**: React Js
